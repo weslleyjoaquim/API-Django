@@ -92,7 +92,7 @@ WSGI_APPLICATION = 'ApiDesafio.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'api-django',
+        'NAME': 'cadastros-usuarios',
         'USER': 'postgres',
         'PASSWORD': '',
         'HOST': 'localhost',
